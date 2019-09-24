@@ -3,7 +3,6 @@
   int buttonPin = 7;
   int LEDPin = 8;
 void setup() {
-  // put your setup code here, to run once:
   //set digital pins as inputs and outputs 
   pinMode(buttonPin, INPUT);
   pinMode(LEDPin, OUTPUT);
